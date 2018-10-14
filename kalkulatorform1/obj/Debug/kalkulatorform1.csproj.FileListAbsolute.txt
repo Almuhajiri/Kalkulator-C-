@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\bin\Debug\kalkulatorform1.exe.config
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\bin\Debug\kalkulatorform1.exe
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\bin\Debug\kalkulatorform1.pdb
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.Form1.resources
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.exe
+C:\Users\ASUS\source\repos\kalkulatorform1\kalkulatorform1\obj\Debug\kalkulatorform1.pdb
